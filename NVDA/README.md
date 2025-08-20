@@ -50,3 +50,4 @@ Console: menampilkan ringkasan harga
 CSV (nvda_prices.csv): menyimpan log dalam format:
 
 timestamp,symbol,current_price,previous_close,day_high,day_low,volume
+
